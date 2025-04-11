@@ -16,8 +16,7 @@
 
 ![screenshot](https://github.com/ridddzzzi/flip-the-coin/blob/main/ui.png?raw=true])
 ![screenshot](https://github.com/ridddzzzi/flip-the-coin/blob/main/output-1.png?raw=true])
-![screenshot](https://github.com/ridddzzzi/flip-the-coin/blob/main/output-2.png?raw=true
-])
+![screenshot](https://github.com/ridddzzzi/flip-the-coin/blob/main/output-2.png?raw=true])
 
 
 
