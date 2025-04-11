@@ -15,6 +15,10 @@
 ## Overview
 
 ![screenshot](https://github.com/ridddzzzi/flip-the-coin/blob/main/ui.png?raw=true])
+![screenshot](https://github.com/ridddzzzi/flip-the-coin/blob/main/output-1?raw=true])
+![screenshot](https://github.com/ridddzzzi/flip-the-coin/blob/main/output-2?raw=true])
+
+
 
 This project is a simple coin flipping game created as part of the [DevChallenges.io Flip The Coin](https://devchallenges.io/challenge/flip-the-coin) challenge. The application allows users to "flip" a coin by pressing a button, with the result being either "Heads" or "Tails". The coin images change based on the result, and animations are applied when the button is clicked.
 
