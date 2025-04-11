@@ -51,4 +51,7 @@ While building this project, I learnt the following concepts:
 - A huge thanks to [DevChallenges.io](https://devchallenges.io) for providing such great challenges to improve web development skills.
 
 ## Author
-- GitHub [@your-username](https://github.com/ridddzzzi)
+- GitHub [ridddzzzi](https://github.com/ridddzzzi)
+- [LinkedIn](http://www.linkedin.com/in/riddhi-r-6a785934b)
+- Email: [riddhi.tech@proton.me](mailto:riddhi.tech@proton.me) 
+
