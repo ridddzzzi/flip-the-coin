@@ -1,17 +1,3 @@
-// import AOS from "aos";
-// import "aos/dist/aos.css";
-
-// init AOS animation
-// AOS.init({
-//     duration: 1000,
-//     offset: 100,
-// });
-
-// <h2 data-aos="fade-up"></h2>
-
-
-
-  
 var heads = 0;
 var tails = 0;
 
